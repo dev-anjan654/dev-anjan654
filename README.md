@@ -9,7 +9,7 @@
 
 ### 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,nextjs,react,nestjs,nodejs,mongodb,postgres,docker,git,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,nextjs,react,nestjs,nodejs,mongodb,postgres,docker,git" alt="Tech Stack" />
 </p>
 
 ---
